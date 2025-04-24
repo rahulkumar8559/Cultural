@@ -63,7 +63,7 @@ const Footer = () => {
                             <li className=' cursor-pointer'>Complaints</li>
                             <li className=' cursor-pointer'>Privacy</li>
                         </ul>
-                        <div className='text-white flex justify-center gap-[30px] font-[500] text-[20px]'>
+                        <div className='text-white flex justify-center gap-[30px] mt-[20px] font-[500] text-[20px]'>
 
                             <div className=' cursor-pointer text-black bg-white p-[5px] rounded'> 
                             <FaFacebookF />

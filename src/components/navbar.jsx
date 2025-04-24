@@ -19,7 +19,7 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div className='flex justify-center items-center text-center gap-[15px]'>
-                    <div><a href='#form' className='font-[400] hover:text-[#157e77] cursor-pointer text-[#373737] text-[20px]'>Join Us</a>
+                    <div><a href='#form' className='font-[400] hover:text-[#157e77] cursor-pointer text-[#373737] text-[15px] sm:text-[20px]'>Join Us</a>
                     </div>
                     <div className={` border flex justify-between ${ search ? 'w-[300px] border-green-300': 'w-[170px]'} items-center pr-[20px] transition-all  duration-300 ease border-[#dedede] rounded-[25px]`}>
                         <input type="text" placeholder='Search' onClick={()=>setSearch(true)}  className={`outline-none rounded-[25px]  h-[50px] w-[300px] px-[20px]`} />

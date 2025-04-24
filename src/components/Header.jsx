@@ -10,7 +10,7 @@ const Header = () => {
 
   return (
     <div className='w-[100%] h-auto p-[10px] mt-[190px] '>
-      <div className='h-auto w-[100%] relative bg-contain ' style={{ backgroundImage: `url('/images/pic${randomnum}.webp')` }}>
+      <div className='h-full w-[full] relative bg-contain  ' style={{ backgroundImage: `url('/images/pic${randomnum}.webp')` }}>
         {/* <div>
           <img src={`/images/pic${randomnum}.web`} alt="wded" className='h-[550px] w-[100%]  ' />
         </div> */}

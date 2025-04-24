@@ -96,8 +96,8 @@ const Explore = () => {
         <div className=' flex flex-col items-center w-[88%] m-[10px] '>
             <div >
                 <div className='sm:flex block  justify-between items-center my-[20px]'>
-                    <h2 className='text-[35px] mb-[20px] font-[600]'>Explore Different Cultures</h2>
-                    <span className='text-[18px] font-[600] text-[#157e77]'>VIEW ALL CULTURES</span>
+                    <h2 className='sm:text-[35px] text-[25px] mb-[20px] font-[600]'>Explore Different Cultures</h2>
+                    <span className=' sm:text-[18px] text-[14px] font-[600] text-[#157e77]'>VIEW ALL CULTURES</span>
                 </div>
                 <div className='block sm:flex justify-between sm:gap-[90px]  items-center '>
                     {
@@ -121,8 +121,8 @@ const Explore = () => {
             </div>
             <div >
                 <div className='sm:flex block justify-between items-center my-[20px]'>
-                    <h2 className='text-[35px] mb-[20px] font-[600]'>Explore Different Cultures</h2>
-                    <span className='text-[18px] font-[600] text-[#157e77]'>VIEW ALL CULTURES</span>
+                    <h2 className='sm:text-[35px] text-[25px] mb-[20px] font-[600]'>Explore Different Cultures</h2>
+                    <span className='sm:text-[18px] text-[14px] font-[600] text-[#157e77]'>VIEW ALL CULTURES</span>
                 </div>
                 <div className='sm:flex block justify-between  sm:gap-[90px]   items-center '>
                     {
