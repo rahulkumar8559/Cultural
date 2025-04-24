@@ -4,7 +4,7 @@ import Header from '../Header'
 
 const Home = () => {
   return (
-    <div className='flex flex-col items-center'>
+    <div className='flex flex-col mb-[5px] w-[100%] items-center'>
 
         <Header/>
         <Explore/>
